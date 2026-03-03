@@ -5,18 +5,28 @@
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Data Systems](https://img.shields.io/badge/Data%20Systems-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p align="center">
-<img src="workspace.JPG" width="40%" height="40%">
-</p>
 
 ---
 
 ## About Me
 
-- AI/ML undergrad with hands-on experience in CNNs, real-time inference, and data systems
-- Work across the full pipeline — data cleaning to production deployment
-- Currently **deepening expertise in Python** while actively learning **AI/ML concepts** and **advanced SQL for data-driven application development**.
-- Certified in Salesforce Agentforce, Google Cloud Gen-AI, and Cisco
+<table>
+<tr>
+<td width="55%" valign="top">
+
+- AI/ML undergrad with hands-on experience in CNNs, real-time inference, and data systems  
+- Work across the full pipeline — data cleaning to production deployment  
+- Currently **deepening expertise in Python** while actively learning **AI/ML concepts** and **advanced SQL for data-driven application development**.  
+- Certified in Salesforce Agentforce, Google Cloud Gen-AI, and Cisco  
+
+</td>
+
+<td width="45%" align="center">
+<img src="workspace.JPG" width="100%">
+</td>
+
+</tr>
+</table>
 
 ---
 
