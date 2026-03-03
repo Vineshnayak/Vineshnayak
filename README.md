@@ -10,19 +10,22 @@
 
 ## About Me
 
-<table>
+<table width="100%">
 <tr>
-<td width="55%" valign="top">
 
-- AI/ML undergrad with hands-on experience in CNNs, real-time inference, and data systems  
-- Work across the full pipeline — data cleaning to production deployment  
-- Currently **deepening expertise in Python** while actively learning **AI/ML concepts** and **advanced SQL for data-driven application development**.  
-- Certified in Salesforce Agentforce, Google Cloud Gen-AI, and Cisco  
+<td width="55%" valign="middle" style="padding: 20px 30px 20px 20px;">
+
+<ul>
+<li>AI/ML undergrad with hands-on experience in CNNs, real-time inference, and data systems</li>
+<li>Work across the full pipeline — data cleaning to production deployment</li>
+<li>Currently <strong>deepening expertise in Python</strong> while actively learning <strong>AI/ML concepts</strong> and <strong>advanced SQL for data-driven application development</strong>.</li>
+<li>Certified in Salesforce Agentforce, Google Cloud Gen-AI, and Cisco</li>
+</ul>
 
 </td>
 
-<td width="45%" align="center">
-<img src="workspace.JPG" width="100%">
+<td width="45%" valign="middle" align="center" style="padding: 20px;">
+<img src="workspace.JPG" width="85%" style="display:block; margin:auto;">
 </td>
 
 </tr>
