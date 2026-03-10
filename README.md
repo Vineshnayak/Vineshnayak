@@ -18,7 +18,7 @@
 <ul>
 <li>AI/ML undergrad with hands-on experience in CNNs, real-time inference, and data systems</li>
 <li>Work across the full pipeline — data cleaning to production deployment</li>
-<li>Currently <strong>deepening expertise in Python</strong> while actively learning <strong>AI/ML concepts</strong> and <strong>advanced SQL for data-driven application development</strong>.</li>
+<li>Currently deepening expertise in <strong>Python</strong> while actively learning <strong>AI/ML concepts</strong> and <strong>advanced SQL for data-driven application development</strong>, and <strong>contributing to open-source projects</strong> on GitHub.</li>
 <li>Certified in Salesforce Agentforce, Google Cloud Gen-AI, and Cisco</li>
 </ul>
 
