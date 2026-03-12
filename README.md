@@ -2,7 +2,6 @@
 
 ![AI/ML Engineer](https://img.shields.io/badge/AI%2FML%20Engineer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Python Developer](https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Data Systems](https://img.shields.io/badge/Data%20Systems-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
