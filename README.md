@@ -1,4 +1,4 @@
-# Hey, I'm Vinesh 👋
+# Hey, I'm Vinesh
 
 ![AI/ML Engineer](https://img.shields.io/badge/AI%2FML%20Engineer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Python Developer](https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)
