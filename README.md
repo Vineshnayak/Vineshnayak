@@ -11,10 +11,10 @@
 <table width="100%">
 <tr>
 
-<td width="55%" valign="middle" style="padding: 20px 30px 20px 20px;">
+<td width="62%" valign="top" style="padding: 20px 30px 20px 20px;">
 
 <ul>
-<li>AI/ML undergraduate focused on building scalable, and real-time software systems</li>
+<li>AI/ML undergraduate focused on building scalable and real-time software systems</li>
 <li>Hands-on experience in machine learning, computer vision, deep learning, NLP, and CI/CD pipeline automation</li>
 <li>Built projects involving facial authentication, YOLOv8-based monitoring systems, semantic code intelligence, prediction pipelines, and real-time dashboards</li>
 <li>Experienced with Python, FastAPI, MongoDB, Streamlit, TensorFlow, PyTorch, OpenCV, and modern AI/ML workflows</li>
@@ -25,8 +25,14 @@
 
 </td>
 
-<td width="45%" valign="middle" align="center" style="padding: 20px;">
-<img src="workspace.JPG" width="85%" style="display:block; margin:auto;">
+<td width="38%" valign="middle" align="center" style="padding: 20px;">
+
+<img 
+src="workspace.JPG" 
+width="100%" 
+style="border-radius:10px; object-fit:cover; display:block;"
+/>
+
 </td>
 
 </tr>
