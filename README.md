@@ -100,3 +100,4 @@ I've used these across my projects — face authentication, logo detection, ML p
 [![Email](https://img.shields.io/badge/Email-vineshnayak.jatothu@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vineshnayak.jatothu@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Vineshnayak-181717?style=flat&logo=github)](https://github.com/Vineshnayak)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinesh%20Nayak-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineshnayak/)
+[![Figma](https://img.shields.io/badge/Figma-vineshnayak-000000?style=flat&logo=figma&logoColor=white)](https://www.figma.com/@vineshnayak)
