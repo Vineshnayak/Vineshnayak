@@ -14,7 +14,7 @@
 <td width="62%" valign="top" style="padding: 20px 30px 20px 20px;">
 
 <ul>
-<li>AI/ML undergraduate focused on building scalable and real-time software systems</li>
+<li>AI/ML undergraduate focused on building efficient and real-time software systems</li>
 <li>Hands-on experience in machine learning, computer vision, deep learning, NLP, and CI/CD pipeline automation</li>
 <li>Built projects involving facial authentication, YOLOv8-based monitoring systems, semantic code intelligence, prediction pipelines, and real-time dashboards</li>
 <li>Experienced with Python, FastAPI, MongoDB, Streamlit, TensorFlow, PyTorch, OpenCV, and modern AI/ML workflows</li>
