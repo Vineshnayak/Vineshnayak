@@ -15,7 +15,7 @@
 
 <ul>
 <li>AI/ML undergraduate focused on building efficient and real-time software systems</li>
-<li>Hands-on experience in machine learning, computer vision, deep learning, CI/CD pipeline automation and workflow automation using <strong>n8n</strong></li>
+<li>Hands-on experience in machine learning, computer vision, deep learning, CI/CD pipelines and <strong>n8n</strong> workflow automation </li>
 <li>Built projects involving facial authentication, YOLOv8-based monitoring systems, semantic code intelligence, prediction pipelines, and real-time dashboards</li>
 <li>Experienced with Python, FastAPI, MongoDB, Streamlit, TensorFlow, PyTorch, OpenCV, and modern AI/ML workflows</li>
 <li>Currently strengthening expertise in <strong>Python</strong>, <strong>AI/ML</strong>, <strong>advanced SQL</strong>, and <strong>CI/CD pipelines</strong> with <strong>Jenkins/GitHub Actions</strong></li><li>Actively contributing to open-source projects and developing real-time software solutions</li>
@@ -96,7 +96,6 @@ style="border-radius:10px; object-fit:cover; display:block;"
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA3A72?style=flat&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -125,6 +124,7 @@ style="border-radius:10px; object-fit:cover; display:block;"
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-1E90FF?style=flat&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA3A72?style=flat&logo=n8n&logoColor=white)
 
 I've used these technologies across projects like Sentinel-Face-Secure, HygieneVision, CodeSage, facial authentication systems, SpendSphere, computer vision applications, ML prediction pipelines, AI-powered code intelligence systems, real-time dashboards, data management systems, and UI/UX prototypes.
 
