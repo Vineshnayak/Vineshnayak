@@ -127,7 +127,7 @@ style="border-radius:10px; object-fit:cover; display:block;"
 ![Antigravity](https://img.shields.io/badge/Antigravity-1E90FF?style=flat&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA3A72?style=flat&logo=n8n&logoColor=white)
 
-I've used these technologies across projects like Sentinel-Face-Secure, HygieneVision, CodeSage, facial authentication systems, SpendSphere, computer vision applications, ML prediction pipelines, AI-powered code intelligence systems, real-time dashboards, data management systems, and UI/UX prototypes.
+I've used these technologies across projects like code intelligence systems, facial authentication systems, HygieneVision, ML prediction pipelines, UI/UX prototypes, and more.
 
 Check out my [repositories](https://github.com/Vineshnayak?tab=repositories) to explore them further.
 
