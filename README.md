@@ -110,6 +110,7 @@ style="border-radius:10px; object-fit:cover; display:block;"
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 ![Streamlit Community Cloud](https://img.shields.io/badge/Streamlit_Community_Cloud-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![OpenWeather API](https://img.shields.io/badge/OpenWeather_API-FFB300?style=flat&logoColor=white)
 ![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat&logo=openstreetmap&logoColor=white)
 
