@@ -123,7 +123,7 @@ style="border-radius:10px; object-fit:cover; display:block;"
 ### Development Tools & Platforms
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white)
+![UNIX](https://img.shields.io/badge/UNIX-000000?style=flat&logo=gnu-bash&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-1E90FF?style=flat&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA3A72?style=flat&logo=n8n&logoColor=white)
 
