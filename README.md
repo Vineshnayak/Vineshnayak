@@ -20,8 +20,8 @@
 <li>Hands-on experience in machine learning, computer vision, deep learning, CI/CD pipelines and <strong>n8n</strong> workflow automation </li>
 <li>Built projects involving facial authentication, YOLOv8-based monitoring systems, semantic code intelligence, prediction pipelines, and real-time dashboards</li>
 <li>Experienced with Python, FastAPI, MongoDB, Streamlit, TensorFlow, PyTorch, OpenCV, and modern AI/ML workflows</li>
-<li>Currently strengthening expertise in <strong>Python</strong>, <strong>AI/ML</strong>, <strong>advanced SQL</strong>, and <strong>CI/CD pipelines</strong> with <strong>Jenkins/GitHub Actions</strong></li><li>Actively contributing to open-source projects and developing real-time software solutions</li>
-<li>Certified in Salesforce Agentforce, Google Cloud Gen-AI, Cisco and government-recognized IT programs.</li>
+<li>Currently strengthening expertise in <strong>Python</strong>, <strong>AI/ML</strong>, <strong>System Design</strong>, and <strong>CI/CD pipelines</strong> using <strong>Jenkins</strong> and <strong>GitHub Actions</strong></li>
+<li>Actively contributing to <strong>open-source projects</strong> and developing <strong>real-time software solutions</strong></li><li>Certified in Salesforce Agentforce, Google Cloud Gen-AI, Cisco and government-recognized IT programs.</li>
 </ul>
 
 </td>
