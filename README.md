@@ -150,7 +150,7 @@ Check out my [repositories](https://github.com/Vineshnayak?tab=repositories) to 
 **500+ problems solved** across LeetCode, CodeChef, and HackerRank
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-1a1a1a?style=flat&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Vineshnayak_61/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/vineshnayak_61)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/vineshnayak_61?rating=dsa-monday)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/Vineshnayak_61)
 
 ---
